@@ -1,0 +1,2 @@
+# GarryGUB
+*Python discord bot*

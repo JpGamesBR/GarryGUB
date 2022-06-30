@@ -24,3 +24,4 @@ Juaum P.#5038 (Official)
 UnnoficialPotato#9577 (Unofficial)
 
 <h1>All the code is Open-Source!</h1>
+<a href="https://discord.com/api/oauth2/authorize?client_id=991447811335934113&permissions=8&scope=bot" target="_blank"><button>Add bot</button></a>

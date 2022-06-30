@@ -2,7 +2,7 @@ from datetime import datetime,timedelta
 import json
 import discord
 from discord.ext import commands
-from GarryGUB.general import general as g
+from general import general as g
 from random import randint
 import sqlite3 as sql
 import asyncio
